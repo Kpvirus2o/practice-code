@@ -5,3 +5,5 @@ this is practice notepad
 now git key ready
 
 some change
+
+new master
