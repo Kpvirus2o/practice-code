@@ -6,4 +6,3 @@ now git key ready
 
 some change
 
-new master
